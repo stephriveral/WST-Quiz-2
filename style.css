@@ -1,0 +1,30 @@
+body {
+    box-sizing: border-box;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    background-color: aliceblue;
+    border: 3px solid rgb(133, 121, 133);
+    padding: 25px;
+    display: flexbox;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.container input {
+    margin-bottom: 10px;
+}
+#bttn {
+    color: rgb(66, 4, 82);
+    background-color: rgb(239, 218, 241);
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.result-box {
+    background-color: rgb(233, 221, 245);
+    border: 3px solid rgb(133, 121, 133);
+    padding: 0 15px;
+    width: 32%;
+    margin: 0 auto;
+}
